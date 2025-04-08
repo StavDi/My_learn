@@ -1,0 +1,9 @@
+8
+Cerno 245 4 5
+Ostov 652 3 17
+Donta 435 17 35
+Jerdan 11  14 54
+Rome 24  23 40
+Moscow 14  21 22
+Cerno 98  16 18
+Perto 132 17 14

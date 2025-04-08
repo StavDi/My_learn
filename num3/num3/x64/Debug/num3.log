@@ -1,0 +1,28 @@
+﻿  num3.cpp
+C:\Users\eeskibin\source\repos\num3\num3\My_Array.h(95,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\eeskibin\source\repos\num3\num3\My_Array.h(93): message : во время компиляции функции-члена класс шаблон "void My_Array<TRAIN>::readBin(std::ifstream &)"
+C:\Users\eeskibin\source\repos\num3\num3\num3.cpp(25): message : выполняется компиляция ссылки на экземпляр шаблон функции "void My_Array<TRAIN>::readBin(std::ifstream &)"
+C:\Users\eeskibin\source\repos\num3\num3\num3.cpp(18): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "My_Array<TRAIN>"
+C:\Users\eeskibin\source\repos\num3\num3\My_Array.h(117,7): warning C4804: >=: небезопасное использование типа "bool" в операции
+C:\Users\eeskibin\source\repos\num3\num3\My_Array.h(116): message : во время компиляции функции-члена класс шаблон "T &My_Array<T>::operator [](int) const"
+          with
+          [
+              T=TRAIN
+          ]
+C:\Users\eeskibin\source\repos\num3\num3\My_Array.h(22): message : выполняется компиляция ссылки на экземпляр шаблон функции "T &My_Array<T>::operator [](int) const"
+          with
+          [
+              T=TRAIN
+          ]
+C:\Users\eeskibin\source\repos\num3\num3\My_Array.h(107,7): warning C4804: >=: небезопасное использование типа "bool" в операции
+C:\Users\eeskibin\source\repos\num3\num3\My_Array.h(106): message : во время компиляции функции-члена класс шаблон "T &My_Array<T>::operator [](int)"
+          with
+          [
+              T=TRAIN
+          ]
+C:\Users\eeskibin\source\repos\num3\num3\num3.cpp(33): message : выполняется компиляция ссылки на экземпляр шаблон функции "T &My_Array<T>::operator [](int)"
+          with
+          [
+              T=TRAIN
+          ]
+  num3.vcxproj -> C:\Users\eeskibin\source\repos\num3\x64\Debug\num3.exe
